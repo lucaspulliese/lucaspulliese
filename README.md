@@ -8,7 +8,7 @@ I am a self-taught Full stack developer from Argentina. There is always somethin
 - 👯 I like to help people who are starting into the development world.
 - 💬 Ask me about anything you want.
 
-You can read more about my in my [website](https://lucaspulliese.com/).
+You can read more about me in my [website](https://lucaspulliese.com/).
 
 
 ## &#x1f4c8; My GitHub Stats
