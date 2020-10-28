@@ -4,7 +4,7 @@ I am a self-taught Full stack developer from Argentina. There is always somethin
 
 - 🔭 I’m currently working at [Flydevs](https://www.flydevs.com/). 
 - 💪 My main stack is Vue.js, Node.js and MySQL.
-- 🌱 I’m currently learning the entire ecosystem of React (Redux, React native) and other great stuff like GraphQL, Mobx, etc.
+- 🌱 But now I'm working with the entire ecosystem of React (Redux, Gatsby) and other great stuff like GraphQL, Mobx, etc.
 - 👯 I like to help people who are starting into the development world.
 - 💬 Ask me about anything you want.
 
