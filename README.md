@@ -14,7 +14,7 @@ You can read more about me in my [website](https://lucaspulliese.com/).
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/lucaspulliese/lucaspulliese">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspulliese&hide=html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspulliese&hide=html" alt="Most used languages" />
 </a>
 
 <a href="https://github.com/lucaspulliese/lucaspulliese">
@@ -24,7 +24,7 @@ You can read more about me in my [website](https://lucaspulliese.com/).
 ## 📇 Useful Links
 
 <p align='left'>
-<a target="_blank" href="https://lucaspulliese.com"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a target="_blank" href="https://twitter.com/lucaspulliese"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a target="_blank" href="https://www.linkedin.com/in/lucas-manuel-pulliese-3ba6b8139/"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a target="_blank" href="https://lucaspulliese.com"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/dev.png?raw=true" alt="My website" ></a>&nbsp;&nbsp;
+<a target="_blank" href="https://twitter.com/lucaspulliese"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/twitter.png?raw=true" alt="Twitter logo" ></a>&nbsp;&nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/lucas-manuel-pulliese-3ba6b8139/"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/linkedin.png?raw=true" alt="Linkedin logo"></a>&nbsp;&nbsp;
 </p>
