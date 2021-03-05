@@ -18,7 +18,7 @@ You can read more about me in my [website](https://lucaspulliese.com/).
 </a>
 
 <a href="https://github.com/lucaspulliese/lucaspulliese">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaspulliese&show_icons=true&line_height=27&count_private=true" alt="Patricio Ferraggi's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaspulliese&show_icons=true&line_height=27&count_private=true" alt="Lucas Pulliese's GitHub Stats" />
 </a>
 
 ## 📇 Useful Links
