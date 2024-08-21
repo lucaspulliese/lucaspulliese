@@ -2,12 +2,10 @@
 
 I am a self-taught Full stack developer from Argentina. There is always something new to learn, so that's why I am passionate about programming.
 
-- 💪 My main stack is React.js - Vue.js, Node.js and MySQL.
-- 🌱 But now I'm working with the entire ecosystem of React (Redux, Gatsby) and other great stuff like GraphQL, Mobx, etc.
-- 👯 I like to help people who are starting into the development world.
+- 💪 My main stack is React.js - Next.js, Python - Django and PostgreSQL.
+- 🌱 Now I'm working with the entire ecosystem of React (Redux, Context, Gatsby), and learning a lot while I'm doing APIs with Python and Django.
+- 👯 I love to help people who are starting into the programming world.
 - 💬 Ask me about anything you want.
-
-You can read more about me in my [website](https://lucaspulliese.com/).
 
 
 ## &#x1f4c8; My GitHub Stats
@@ -23,7 +21,5 @@ You can read more about me in my [website](https://lucaspulliese.com/).
 ## 📇 Useful Links
 
 <p align='left'>
-<a target="_blank" href="https://lucaspulliese.com"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/dev.png?raw=true" alt="My website" ></a>&nbsp;&nbsp;
-<a target="_blank" href="https://twitter.com/lucaspulliese"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/twitter.png?raw=true" alt="Twitter logo" ></a>&nbsp;&nbsp;
 <a target="_blank" href="https://www.linkedin.com/in/lucas-manuel-pulliese-3ba6b8139/"><img height="30" src="https://github.com/Raagh/Raagh/raw/master/linkedin.png?raw=true" alt="Linkedin logo"></a>&nbsp;&nbsp;
 </p>
